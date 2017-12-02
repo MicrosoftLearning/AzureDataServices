@@ -1,0 +1,28 @@
+Outlook account name:       
+Outlook account password:   
+---
+Domain name:                
+---
+Ben user name:              Ben@
+Ben user password:          
+---
+Stewart user name:          Stewart@
+Stewart user password:      
+---
+Anna user name:             Anna@
+Anna user password:         
+---
+John user name:             John@
+---
+Sally user name:            Sally@
+---
+VM name:                    
+---
+VM admin user name:         VM-Admin
+VM admin password:          
+---
+Report Server URL:          http://<VM-Name>/ReportServer
+---
+Azure storage account name: 
+Azure storage key:          
+---
